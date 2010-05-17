@@ -1,6 +1,6 @@
-#lang scheme
-(require schemeunit
-         schemeunit/text-ui
+#lang racket
+(require rackunit
+         rackunit/text-ui
          net/url
          (prefix-in h: html)
          (prefix-in x: xml))
