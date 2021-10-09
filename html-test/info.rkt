@@ -14,3 +14,6 @@
     "html-lib"
     "rackunit-lib"))
 (define update-implies '("html-lib"))
+
+(define license
+  '(Apache-2.0 OR MIT))
